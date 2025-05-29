@@ -1,0 +1,9 @@
+[submodule "code/masked-gaussian-splatting/submodules/diff-gaussian-rasterization"]
+	path = code/masked-gaussian-splatting/submodules/diff-gaussian-rasterization
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
+[submodule "code/masked-gaussian-splatting/submodules/fused-ssim"]
+	path = code/masked-gaussian-splatting/submodules/fused-ssim
+	url = https://github.com/rahul-goel/fused-ssim.git
+[submodule "code/masked-gaussian-splatting/submodules/simple-knn"]
+	path = code/masked-gaussian-splatting/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
